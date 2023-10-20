@@ -1,1 +1,1 @@
-# it-6
+# Informationsteknologi dag 6
